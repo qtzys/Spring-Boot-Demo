@@ -53,7 +53,7 @@
 		<dependency>
 			<groupId>com.baomidou</groupId>
 			<artifactId>mybatis-plus-boot-starter</artifactId>
-			<version>3.0.5</version>
+			<version>3.5.3.1</version>
 		</dependency>
 		<!-- velocity 模板引擎, 默认 -->
 		<dependency>
